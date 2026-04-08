@@ -1,1 +1,1 @@
-# Yolo_object_detection_project
+YOLO-based Construction Safety Detection System using Streamlit
